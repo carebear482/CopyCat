@@ -1,0 +1,2 @@
+# CopyCat
+Replicator of actions
